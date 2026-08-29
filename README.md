@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Khushi Singh Bhadauriya , a B. Tech CSE (AI/ML) student and aspiring software engineer.
+I'm Khushi Singh Bhadauriya , A B. Tech CSE (AI/ML) student and aspiring software engineer.
 
 - 💻 Exploring C, Python, DSA, AI/ML and Web Development
 - 🚀 Building projects to strengthen my programming and problem-solving skills
