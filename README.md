@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Khushi Singh Bhadauriya , a B. Tech CSE (AI/ML) student and aspiring software engineer.
+
+- 💻 Exploring C, Python, DSA, AI/ML and Web Development
+- 🚀 Building projects to strengthen my programming and problem-solving skills
+- 📚 Currently learning and improving every day
+- 🤝 Open to learning, collaboration and opportunities
+
+### Let's Connect
+- LinkedIn: [Khushi Singh Bhadauriya](https://www.linkedin.com/in/khushi-singh-bhadauriya-901498371)
+
 <!--
 **KHUSHI-SINGH-BHADAURIYA/KHUSHI-SINGH-BHADAURIYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
