@@ -13,7 +13,7 @@ I'm a 3rd-year Computer Science & Engineering (AI/ML) student from Kanpur, India
 - **Tools:** Git, GitHub, VS Code
 - **AI/ML:** AI & ML Fundamentals
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
 **HabitzFlow — Habit Tracking Web Application**
 - Habit creation, completion and deletion
