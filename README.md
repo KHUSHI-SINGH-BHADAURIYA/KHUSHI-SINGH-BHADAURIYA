@@ -21,11 +21,6 @@ I'm a 3rd-year Computer Science & Engineering (AI/ML) student from Kanpur, India
 - LocalStorage persistence
 - HTML, CSS, JavaScript, Python & Flask
 
-**EcoVision Four — Personalized Green Lifestyle Tracker**
-- AI/ML-based sustainability tracking concept
-- Green Score and personalized recommendations
-- Team leadership, research and solution design
-
 ### 🎯 Currently
 
 - Strengthening Data Structures & Algorithms
