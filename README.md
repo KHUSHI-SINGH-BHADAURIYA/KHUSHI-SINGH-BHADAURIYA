@@ -6,7 +6,7 @@ I'm a 3rd-year Computer Science & Engineering (AI/ML) student from Kanpur, India
 
 ### 💻 Tech Stack
 
-- **Languages:** Python, C, C++, Java, JavaScript
+- **Languages:** Python, C, Java, JavaScript
 - **Web Development:** HTML, CSS, JavaScript, Flask
 - **Database:** Oracle SQL
 - **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, COA
